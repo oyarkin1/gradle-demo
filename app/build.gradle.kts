@@ -1,5 +1,5 @@
 plugins {
-    // id("my-application")
+    id("my-application")
 }
 
 //java {
